@@ -1,1 +1,42 @@
-HTHHTGHHH
+ANSWER NO 1: Timely delivery is very crucial in Software Project Management as it  helps in Customer Satisfaction by meeting deadlines we  ensures that customers receive their software products on time, leading to higher satisfaction and loyalty.
+To ensure deadlines are met, project managers can make sure they define a clear project scope, including deliverables, timelines, and resources.
+
+ANSWER NO 2: Effective cost control contributes to the success of a software project by always completing projects within budget to avoid overruns and ensure that the project is completed within the allocated time. In addition, optimizing resource utilization to maximize the return investment (ROI) for the project can also contribute to the success of a software project. 
+List of strategies can be used to prevent budget overruns can include but not limited to; detailed cost estimation; cost baseline establishment; regular cost monitoring etc. 
+
+ANSWER 3: Agile and Waterfall are two popular software development methodologies used to manage and deliver projects. Here's a comparison of the two:
+**Agile Methodology
+Advantages: Flexibility, Faster Time-to-Market, Improved Team Collaboration etc
+Disadvantages: Lack of Clear Requirements, Higher Cost, Difficulty in Scaling, Requires experienced team 
+
+**Waterfall Methodology
+Advantages
+Clear Requirements, Easy to Manage, Predictable Timeline and Budget etc
+Disadvantages
+Inflexible, Higher Risk,  Longer Time-to-Market,   Limited Customer Involvement.
+
+ANSWER NO 4: Below are the types of projects that Agile might be more beneficial than Waterfall
+Agile-Friendly Projects 
+1. Software development with uncertain or changing 
+2. Innovative or experimental projects
+3. Projects with high uncertainty or risk
+4. Projects with multiple stakeholders or complex decision-making processes: 
+
+Examples of Agile-friendly projects: Developing a mobile app with rapidly changing user requirements
+
+Below are the types of projects that Waterfall e might be more beneficial than Agile
+Waterfall-Friendly Projects
+1. Projects with well-defined, fixed requirements
+2. Projects with strict regulations or compliance requirements
+3. Projects with limited budget or resources
+4. Projects with a clear, well-understood solution.
+
+Examples of Waterfall-friendly projects: Developing a simple e-commerce website with well-defined requirements, implementing a standardized, off-the-shelf software solution
+
+It can be said that there are so many methods for ensuring quality assurance throughout a software project. Below are some notable ones: 
+1. Testing
+2. Code Reviews
+3. Continuous Integration and Continuous Deployment (CI/CD)
+4. Static Code Analysis
+5. Dynamic Analysis
+6. Test-Driven Development (TDD) etc
